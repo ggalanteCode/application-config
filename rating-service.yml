@@ -5,7 +5,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 server:
-  port: 8083
+  port: 9002
 spring:
   application:
-    name: book-service
+    name: rating-service
